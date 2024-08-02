@@ -46,7 +46,7 @@ export default function Navbar() {
             Center
           </NavItem>
           <NavItem href="/creator" handleClick={toggleMenu}>
-            Amb. Program
+             Program
           </NavItem>
           <NavItem href="https://chat.whatsapp.com/F477YxTNkmT2sJuAaNaGDa" handleClick={toggleMenu}>Community</NavItem>
           <NavItem href="/about" handleClick={toggleMenu}>
